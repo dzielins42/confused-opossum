@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'wiki.plugins.images.apps.ImagesConfig',
     'wiki.plugins.macros.apps.MacrosConfig',
     'ranshigen',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
